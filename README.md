@@ -3,6 +3,8 @@ Accurate Localization of Needle to Support The Guidance of RFA Surgery in Liver 
 author: ThuanChu
 Date of creation: 2023
 
+![CT_view](https://github.com/user-attachments/assets/d9c16410-7a31-4945-bd91-eedf0499017d)![3D_view1](https://github.com/user-attachments/assets/a35571ab-47da-4bea-b799-b8f69dd8d187)
+
 
 
 Introduction
